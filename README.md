@@ -1,4 +1,4 @@
-# ✋📄 Hand Text Detection & Recognition Using OpenCV and OCR
+# 📄 Hand Text Detection & Recognition Using OpenCV and OCR
 
 **Project by:** Syeda Umaima Tamkeen
 
