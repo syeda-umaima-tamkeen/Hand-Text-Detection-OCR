@@ -1,0 +1,1 @@
+# Hand-Text-Detection-OCR
